@@ -60,12 +60,6 @@ p {
     font-size: 0;
 }
 
-.hide-text {
-    text-indent: 100%;
-    white-space: nowrap;
-    overflow: hidden;
-}
-
 .float-left {
     float: left;
     margin-right: 25px;
