@@ -11,4 +11,7 @@ A website that offers Search Engine Optimization, Online Reputation Management, 
 https://sallaball.github.io/Horiseon-refactor/
 
 ## Contribution
-Made with ❤️️ by Salla Ball
+Made by Salla Ball
+
+![image](https://user-images.githubusercontent.com/104656042/171528241-3829e49d-d473-4e98-8b75-b6b3e0bbb696.png)
+
